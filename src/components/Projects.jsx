@@ -38,13 +38,13 @@ export const Projects = () => {
               </div>
               <div>
                 <a
-                  href="#"
+                  href="https://github.com/daviddev99/musicfy"
                   className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center  focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 >
                   {t("code")} <AiFillGithub size={20} />
                 </a>
                 <a
-                  href="#"
+                  href="https://musicfy2.vercel.app/"
                   className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 >
                   Demo <BiLinkExternal size={20} />
@@ -72,13 +72,13 @@ export const Projects = () => {
               </div>
               <div className="">
                 <a
-                  href="#"
+                  href="https://github.com/daviddev99/webwonders-ecommerce"
                   className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center   focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 >
                   {t("code")} <AiFillGithub size={20} />
                 </a>
                 <a
-                  href="#"
+                  href="https://webwonders-ecommerce.vercel.app/"
                   className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 >
                   Demo <BiLinkExternal size={20} />
@@ -115,13 +115,13 @@ export const Projects = () => {
               </div>
               <div>
                 <a
-                  href="#"
+                  href="https://github.com/daviddev99/translator-app"
                   className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center  focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 >
                   {t("code")} <AiFillGithub size={20} />
                 </a>
                 <a
-                  href="#"
+                  href="https://translator-app-beta.vercel.app/"
                   className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 >
                   Demo <BiLinkExternal size={20} />
