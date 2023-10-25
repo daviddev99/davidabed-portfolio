@@ -17,10 +17,18 @@ html {
   display: none;
 }
 
+.menu{
+  display: flex
+}
+
 
 @media (min-width: 1024px) {
   .sidebar{
     display: flex;
+  }
+
+  .menu{
+    display: none;
   }
 }
 
