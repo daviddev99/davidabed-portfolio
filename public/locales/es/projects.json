@@ -1,0 +1,7 @@
+{
+    "title": "Proyectos",
+    "musicfy": "Reproductor de música online vinculado a la API de Spotify para realizar consultas sobre artistas, listas de reproducción, álbumes, canciones y reproducirlas! También mantiene los estilos originales de la aplicación Spotify.",
+    "webwonders": "App de Ecommerce que muestra diferentes productos obtenidos de la API DummyJSON, en la cual puedes agregar productos al carrito, filtrar productos por categoría, acceder a un producto en particular y buscar por consulta el producto que deseas.",
+    "translator": "Traductor vinculado a la API de Google Translate, permite detectar idiomas así como escuchar el texto original y traducido.",
+    "code": "Código"
+}

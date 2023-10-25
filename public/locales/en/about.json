@@ -1,0 +1,11 @@
+{
+    "title": "About",
+    "me": "Me",
+    "description" : "Hi there! My name is David Abed, a frontend developer based in Argentina. Currently focused on create beautiful and functional web interfaces. My strongest skills are HTML, CSS, and JavaScript, but I'm open to learn new things and accept new challenges.",
+    "education": "Education",
+    "degree": "Associate Degree in Programming",
+    "schoolName": "San Vicente de Paul's Institute",
+    "englishDegree": "English Grade B2",
+    "instituteName": "Links Institute",
+    "tech": "Tech Stack"
+}

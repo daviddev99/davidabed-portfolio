@@ -1,0 +1,11 @@
+{
+    "title": "Sobre",
+    "me": "Mí",
+    "description" : "¡Hola! Mi nombre es David Abed, un desarrollador frontend nacido en Argentina. Actualmente enfocado en crear interfaces web hermosas y funcionales. Mis habilidades más fuertes son HTML, CSS y JavaScript, pero estoy abierto a aprender cosas nuevas y aceptar nuevos desafíos.",
+    "education": "Educación",
+    "degree": "Tecnicatura Superior en Programación",
+    "schoolName": "Instituto San Vicente de Paul",
+    "englishDegree": "Grado B2 Inglés",
+    "instituteName": "Instituto Links",
+    "tech" : "Tecnologías"
+}

@@ -1,0 +1,7 @@
+{
+    "title": "Projects",
+    "musicfy": "Online music player linked to the Spotify API to make queries about artists, playlists, albums, songs and play it! It also maintains the original styles of the Spotify App.",
+    "webwonders": "Ecommerce App that shows different products obtained from the DummyJSON API, in which you can add products to the cart, filter products by category, access a particular product and search by query for the product you want.",
+    "translator": "Translator linked to the Google Translate API, allows you to detect languages as well as listen to the original and translated text.",
+    "code": "Code"
+}

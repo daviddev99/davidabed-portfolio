@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background {
+  background: #000b1a;
+
+  background-image: radial-gradient(at 0% 0%,hsla(222,100%,11%,1) 0px,transparent 50%),radial-gradient(at 100% 100%,hsla(222,100%,11%,1) 0px,transparent 50%)
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Outfit', sans-serif;
+}
+
+.sidebar {
+  display: none;
+}
+
+
+@media (min-width: 1024px) {
+  .sidebar{
+    display: flex;
+  }
+}
+
