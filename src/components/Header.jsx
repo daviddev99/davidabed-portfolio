@@ -31,7 +31,7 @@ export const Header = () => {
             David Abed<span className="text-blue-500">.</span>
           </h1>
         </a>
-        <div className=" sidebar text-[1.1rem] font-extralight text-slate-300 gap-10">
+        <div className=" text-[1.1rem] font-extralight text-slate-300 gap-10">
           <ul className="flex gap-5 ">
             <li className="border-b-2 border-transparent hover:border-blue-500 duration-150">
               <a href="#about">{t("about")}</a>

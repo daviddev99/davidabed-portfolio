@@ -41,7 +41,7 @@ export const Main = () => {
         </a>
         <a
           className="flex text- lg:text-md items-center text-white p-2 border-2 rounded-full gap-2 justify-center bg-blue-500 border-blue-600"
-          href="https://drive.google.com/file/d/1WnY5wpslxZw6MrA5naFDbcUmIxAxNRGE/view?usp=sharing"
+          href="https://drive.google.com/file/d/1s97Sefhv0m9ndqMbsk5b0tvLxarDFpp3/view?usp=sharing"
           rel="noreferrer"
           target="_blank"
         >
