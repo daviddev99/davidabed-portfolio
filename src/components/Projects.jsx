@@ -41,7 +41,7 @@ export const Projects = () => {
                   href="https://github.com/daviddev99/musicfy"
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center  focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+                  className="inline-flex gap-2 items-center hover:bg-zinc-800 rounded-lg px-3 py-2 text-sm font-medium text-center  focus:ring-4 focus:outline-none focus:ring-blue-300 "
                 >
                   {t("code")} <AiFillGithub size={20} />
                 </a>
@@ -49,7 +49,7 @@ export const Projects = () => {
                   href="https://musicfy2.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+                  className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 "
                 >
                   Demo <BiLinkExternal size={20} />
                 </a>
@@ -79,7 +79,7 @@ export const Projects = () => {
                   href="https://github.com/daviddev99/webwonders-ecommerce"
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center   focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+                  className="inline-flex gap-2 items-center hover:bg-zinc-800 rounded-lg px-3 py-2 text-sm font-medium text-center   focus:ring-4 focus:outline-none focus:ring-blue-300 "
                 >
                   {t("code")} <AiFillGithub size={20} />
                 </a>
@@ -87,7 +87,7 @@ export const Projects = () => {
                   href="https://webwonders-ecommerce.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+                  className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 "
                 >
                   Demo <BiLinkExternal size={20} />
                 </a>
@@ -126,7 +126,7 @@ export const Projects = () => {
                   href="https://github.com/daviddev99/translator-app"
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center  focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+                  className="inline-flex gap-2 items-center hover:bg-zinc-900 duration-150 rounded-lg px-3 py-2 text-sm font-medium text-center  focus:ring-4 focus:outline-none focus:ring-blue-300 "
                 >
                   {t("code")} <AiFillGithub size={20} />
                 </a>
@@ -134,7 +134,7 @@ export const Projects = () => {
                   href="https://translator-app-beta.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+                  className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 "
                 >
                   Demo <BiLinkExternal size={20} />
                 </a>
