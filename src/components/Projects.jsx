@@ -131,7 +131,7 @@ export const Projects = () => {
                   {t("code")} <AiFillGithub size={20} />
                 </a>
                 <a
-                  href="https://translator-app-beta.vercel.app/"
+                  href="https://translator-gapi.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 "
