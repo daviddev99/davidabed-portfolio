@@ -6,9 +6,12 @@ import ReduxIcon from "../assets/images/redux-logo.svg";
 import TailwindIcon from "../assets/images/tailwind-css-2.svg";
 import GitIcon from "../assets/images/git-icon.svg";
 import GitHIcon from "../assets/images/github-icon-1.svg";
+import TypescriptIcon from "../assets/images/Typescript_logo_2020.svg";
+import NextjsIcon from "../assets/images/nextjs-icon-svgrepo-com.svg";
 import { useTranslation } from "react-i18next";
 
-export const About = () => {
+export const 
+About = () => {
   const { t } = useTranslation(["about"]);
 
   return (
@@ -54,8 +57,16 @@ export const About = () => {
                 <p>JavaScript</p>
               </li>
               <li className="flex flex-col justify-center items-center gap-1">
+                <img src={TypescriptIcon} alt="" className="w-11 h-11" />{" "}
+                <p>Typescript</p>
+              </li>
+              <li className="flex flex-col justify-center items-center gap-1">
                 <img src={ReactIcon} alt="" className="w-11 h-11" />{" "}
                 <p>React</p>
+              </li>
+              <li className="flex flex-col justify-center items-center gap-1">
+                <img src={NextjsIcon} alt="" className="w-11 h-11" />{" "}
+                <p>Next js</p>
               </li>
               <li className="flex flex-col justify-center items-center gap-1">
                 <img src={ReduxIcon} alt="" className="w-11 h-11" />{" "}

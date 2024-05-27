@@ -1,6 +1,6 @@
-import { BiLogoTailwindCss, BiLogoReact, BiLogoRedux } from "react-icons/bi";
-import MusicFy from "../assets/images/spotify.png";
-import EcommerceImg from "../assets/images/ecommerce.png";
+import { BiLogoTailwindCss, BiLogoReact, BiLogoRedux, BiLogoTypescript } from "react-icons/bi";
+import MusicFy from "../assets/images/iPad-1716767037783.jpeg";
+import EcommerceImg from "../assets/images/iPad-1716761489563.jpeg";
 import TranslatorImg from "../assets/images/translator.png";
 import { AiFillGithub } from "react-icons/ai";
 import { BiLinkExternal } from "react-icons/bi";
@@ -63,20 +63,21 @@ export const Projects = () => {
             <div className="w-full p-8 lg:rounded-l-2xl gap-4   bg-black text-white flex flex-col lg:pl-5">
               <div className="max-w-xl flex flex-col gap-4">
                 <h2 className=" text-blue-500 text-3xl sm:mt-0 font-medium tracking-tight  sm:text-4xl sm:leading-none max-w-lg">
-                  WebWonders Ecommerce
+                  SNKR.sale
                 </h2>
                 <p className=" text-base text-slate-500 md:text-lg">
-                  {t("webwonders")}
+                  {t("ecommerce")}
                 </p>
               </div>
               <div className="space-x-4  flex">
                 <BiLogoReact className="text-[#61DBFB]" size={35} />{" "}
                 <BiLogoRedux className="text-[#764ABC]" size={35} />{" "}
+                <BiLogoTypescript className="text-[#3079c6]" size={35} />{" "}
                 <BiLogoTailwindCss className="text-[#38BDF8]" size={35} />
               </div>
               <div className="">
                 <a
-                  href="https://github.com/daviddev99/webwonders-ecommerce"
+                  href="https://github.com/daviddev99/snkrsale-react-ts-redux"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex gap-2 items-center hover:bg-zinc-800 rounded-lg px-3 py-2 text-sm font-medium text-center   focus:ring-4 focus:outline-none focus:ring-blue-300 "
@@ -84,7 +85,7 @@ export const Projects = () => {
                   {t("code")} <AiFillGithub size={20} />
                 </a>
                 <a
-                  href="https://webwonders-ecommerce.vercel.app/"
+                  href="https://snkrsale.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 "

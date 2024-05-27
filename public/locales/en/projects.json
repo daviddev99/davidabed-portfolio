@@ -1,7 +1,7 @@
 {
     "title": "Projects",
     "musicfy": "Online music player linked to the Spotify API to make queries about artists, playlists, albums, songs and play it! It also maintains the original styles of the Spotify App.",
-    "webwonders": "Ecommerce App that shows different products obtained from the DummyJSON API, in which you can add products to the cart, filter products by category, access a particular product and search by query for the product you want.",
+    "ecommerce": "SNKRSALE is a web application built with React 18, Redux,  TypeScript and Tailwind CSS that allows you to browse a wide selection of sneakers, filter them by brand, gender or category, and buy them in a simple and intuitive way. You would also recieve notifications of the state of the product, made with Sonner. Go to each product detail page to see high-quality images, full descriptions, sizing information, and availability. Manage your shopping cart with ease, add or delete products, modify the quantity and receive notifications when a product you are interested in is available in your size.",
     "translator": "Translator linked to the Google Translate API, allows you to detect languages as well as listen to the original and translated text.",
     "code": "Code"
 }
