@@ -1,7 +1,12 @@
-import { BiLogoTailwindCss, BiLogoReact, BiLogoRedux, BiLogoTypescript } from "react-icons/bi";
+import {
+  BiLogoTailwindCss,
+  BiLogoReact,
+  BiLogoRedux,
+  BiLogoTypescript,
+} from "react-icons/bi";
 import MusicFy from "../assets/images/iPad-1716767037783.jpeg";
 import EcommerceImg from "../assets/images/iPad-1716761489563.jpeg";
-import TranslatorImg from "../assets/images/translator.png";
+import TranslatorImg from "../assets/images/translator.jpeg";
 import { AiFillGithub } from "react-icons/ai";
 import { BiLinkExternal } from "react-icons/bi";
 import { useTranslation } from "react-i18next";
@@ -105,7 +110,7 @@ export const Projects = () => {
         <div className=" border-2 overflow-hidden sm:flex sm:justify-strech sm:border-0  border-blue-500 rounded-2xl sm:rounded-none mx-auto sm:mx-0 w-full   ">
           <div className="flex flex-col lg:justify-start items-center justify-between w-full lg:flex-row lg:gap-0">
             <img
-              className="aspect-square lg:rounded-none object-cover w-full lg:w-[24rem] object-top"
+              className="aspect-square lg:rounded-none object-cover w-full lg:w-[24rem] object-center"
               alt="logo"
               src={TranslatorImg}
             />
@@ -120,11 +125,12 @@ export const Projects = () => {
               </div>
               <div className="space-x-4  flex">
                 <BiLogoReact className="text-[#61DBFB]" size={35} />{" "}
+                <BiLogoTypescript className="text-[#3079c6]" size={35} />{" "}
                 <BiLogoTailwindCss className="text-[#38BDF8]" size={35} />
               </div>
               <div>
                 <a
-                  href="https://github.com/daviddev99/translator-app"
+                  href="https://github.com/daviddev99/gtranslate-react-ts"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex gap-2 items-center hover:bg-zinc-900 duration-150 rounded-lg px-3 py-2 text-sm font-medium text-center  focus:ring-4 focus:outline-none focus:ring-blue-300 "
@@ -132,7 +138,7 @@ export const Projects = () => {
                   {t("code")} <AiFillGithub size={20} />
                 </a>
                 <a
-                  href="https://translator-gapi.vercel.app/"
+                  href="https://gtranslate-react-ts.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex gap-2 items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg ml-4 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 "

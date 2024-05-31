@@ -2,6 +2,6 @@
     "title": "Proyectos",
     "musicfy": "Reproductor de música online vinculado a la API de Spotify para realizar consultas sobre artistas, listas de reproducción, álbumes, canciones y reproducirlas! También mantiene los estilos originales de la aplicación Spotify.",
     "ecommerce": "SNKRSALE es una aplicación web construida con React 18, Redux, TypeScript y Tailwind CSS que te permite explorar una amplia selección de zapatillas, filtrarlas por marca, genero o categoria, y comprarlas de manera sencilla e intuitiva. Tambien recibirás notificaciones sobre el estado del producto, echas con Sonner. Accede a la página de detalles de cada producto para ver imágenes de alta calidad, descripciones completas, información sobre el tamaño y la disponibilidad. Gestiona tu carrito de compras con facilidad, añade o elimina productos, modifica la cantidad y recibe notificaciones cuando un producto que te interesa esté disponible en tu talla.",
-    "translator": "Traductor vinculado a la API de Google Translate, permite detectar idiomas así como escuchar el texto original y traducido.",
+    "translator": "Aplicación de traducción creada con React 18, TypeScript, Google Translate API y Tailwind CSS donde puedes detectar automáticamente idiomas, cambiar entre ellos y también puedes pronunciar la traducción y copiarla en el portapapeles.",
     "code": "Código"
 }
