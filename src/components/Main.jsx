@@ -1,4 +1,3 @@
-import React from "react";
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import { LuNewspaper } from "react-icons/lu";
 import { useTranslation } from "react-i18next";
@@ -41,7 +40,7 @@ export const Main = () => {
         </a>
         <a
           className="flex text- lg:text-md items-center text-white p-2 border-2 rounded-full gap-2 justify-center bg-blue-500 border-blue-600"
-          href="https://drive.google.com/file/d/1s97Sefhv0m9ndqMbsk5b0tvLxarDFpp3/view?usp=sharing"
+          href="https://drive.google.com/file/d/1h5iONvYRGZjXNaUF0UtBYF5mZnVuyo_9/view?usp=sharing"
           rel="noreferrer"
           target="_blank"
         >

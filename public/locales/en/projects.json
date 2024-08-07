@@ -2,6 +2,6 @@
     "title": "Projects",
     "musicfy": "Online music player linked to the Spotify API to make queries about artists, playlists, albums, songs and play it! It also maintains the original styles of the Spotify App.",
     "ecommerce": "SNKRSALE is a web application built with React 18, Redux,  TypeScript and Tailwind CSS that allows you to browse a wide selection of sneakers, filter them by brand, gender or category, and buy them in a simple and intuitive way. You would also recieve notifications of the state of the product, made with Sonner. Go to each product detail page to see high-quality images, full descriptions, sizing information, and availability. Manage your shopping cart with ease, add or delete products, modify the quantity and receive notifications when a product you are interested in is available in your size.",
-    "translator": "Translator App built with React 18, TypeScript, Google Translate API, and Tailwind CSS where you can auto-detect languages, switch between, and also you can speech the translation and copy it to the clipboard.",
+    "netmovies": "Netmovies is a movie and series streaming web application, developed with the aim of offering an immersive and personalized viewing experience. It was developed with React 18, Redux, React Router and TailwindCSS. The platform allows users to explore a vast catalog of content, including premieres, classics and independent titles. In addition to searching by title or genre, the app offers personalized recommendations based on each user's viewing history.",
     "code": "Code"
 }

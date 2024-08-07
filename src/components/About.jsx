@@ -1,6 +1,9 @@
 import HTMLIcon from "../assets/images/html-1.svg";
 import CSSIcon from "../assets/images/css-3.svg";
 import JSIcon from "../assets/images/logo-javascript.svg";
+import PHPIcon from "../assets/images/new-php-logo.svg";
+import SQLIcon from "../assets/images/MySQL-Logo.webp";
+import jQueryIcon from "../assets/images/JQuery-Logo.svg";
 import ReactIcon from "../assets/images/react-2.svg";
 import ReduxIcon from "../assets/images/redux-logo.svg";
 import TailwindIcon from "../assets/images/tailwind-css-2.svg";
@@ -55,6 +58,18 @@ About = () => {
               <li className="flex flex-col justify-center items-center gap-1">
                 <img src={JSIcon} alt="" className="w-11 h-11" />{" "}
                 <p>JavaScript</p>
+              </li>
+              <li className="flex flex-col justify-center items-center gap-1">
+                <img src={PHPIcon} alt="" className=" h-11" />{" "}
+                <p>PHP</p>
+              </li>
+              <li className="flex flex-col justify-center items-center gap-1">
+                <img src={SQLIcon} alt="" className=" h-11" />{" "}
+                <p>SQL</p>
+              </li>
+              <li className="flex flex-col justify-center items-center gap-1">
+                <img src={jQueryIcon} alt="" className=" bg-white h-11" />{" "}
+                <p>jQuery</p>
               </li>
               <li className="flex flex-col justify-center items-center gap-1">
                 <img src={TypescriptIcon} alt="" className="w-11 h-11" />{" "}
